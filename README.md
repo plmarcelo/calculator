@@ -1,2 +1,2 @@
 # calculator
-2. Curso de Java Calculadora con Gradle
+1. Curso de Java Calculadora con Gradle
