@@ -6,6 +6,7 @@ group 'com.privalia'
 version '1.0-SNAPSHOT'
 description 'Calculadora curso de Java'
 
+apply plugin:'application'
 mainClassName  = 'com.privalia.main.Main'
 
 sourceCompatibility = 1.8
